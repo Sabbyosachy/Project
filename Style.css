@@ -1,0 +1,61 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+
+}
+
+h1{
+
+font-size: 40px;
+
+}
+span{
+
+color: orangered;
+
+}
+section{
+
+display: flex;
+
+}
+.right{
+
+width: 50%;
+
+}
+.left{
+
+width: 50%;
+margin-left: 95px;
+margin-top: 40px;
+
+}
+
+.right img{
+
+width: 80%;
+margin: 23px;
+
+}
+p{
+text-align: justify;
+
+}
+.button{
+text-decoration: none;
+background-color: orangered;
+padding: 6px 14px;
+color: white;
+border-radius: 2px;
+font-weight: 500;
+}
+
+.Top-banner{
+
+background-image: url("top-banner.png");
+background-repeat: no-repeat;
+
+
+}
