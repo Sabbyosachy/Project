@@ -59,3 +59,54 @@ background-repeat: no-repeat;
 
 
 }
+.image{
+
+width: 50%;
+margin-left: 80px;
+
+}
+
+.text{
+
+width: 50%;
+margin-right: 120px;
+margin-top: 40px;
+
+}
+
+.text h1{
+
+font-size: 50px;
+
+}
+
+.text p{
+
+
+font-size: 18px;
+
+}
+
+.image img{
+
+width: 90%;
+
+}
+.btn{
+text-decoration: none;
+background-color: orangered;
+padding: 7px 20px;
+
+color: white;
+
+border-radius: 2px;
+
+}
+.Dream{
+
+
+background-image:url("dream-bg.png");
+background-repeat: no-repeat;
+background-position: right;
+
+}
